@@ -3,8 +3,6 @@
 
 <p align="left"> <a href="https://twitter.com/arif_exe_" target="blank"><img src="https://img.shields.io/twitter/follow/arif_exe_?logo=twitter&style=for-the-badge" alt="arif_exe_" /></a> </p>
 
-- 🔭 I’m currently working on [a telegram ai chatbot](https://github.com/arifansari10027/telegramgeminibot)
-
 - 🌱 I’m currently learning **Python, DevOps, Java & Spring boot**
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/arifansari10027](https://linktr.ee/arifansari10027)
