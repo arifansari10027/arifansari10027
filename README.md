@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **arifansari10027@outlook.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/e/2PACX-1vQkWcGVesR7-WHW7C65XIzPJZRgWHR_7HIkeqK1CA8IJwtmw5tvsHByOxQNEpolJQ/pub](https://docs.google.com/document/d/e/2PACX-1vQkWcGVesR7-WHW7C65XIzPJZRgWHR_7HIkeqK1CA8IJwtmw5tvsHByOxQNEpolJQ/pub)
+- 📄 Know about my experiences [https://docs.google.com/document/d/1WUYS7-78ic4ogWnOH6asuPXvTKBGF4ZN/edit?usp=drivesdk&ouid=105062174605642480815&rtpof=true&sd=true](https://docs.google.com/document/d/1WUYS7-78ic4ogWnOH6asuPXvTKBGF4ZN/edit?usp=drivesdk&ouid=105062174605642480815&rtpof=true&sd=true))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
